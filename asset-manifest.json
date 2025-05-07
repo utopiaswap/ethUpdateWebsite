@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a1d24300.css",
-    "main.js": "/static/js/main.d5788e47.js",
+    "main.js": "/static/js/main.653d4465.js",
     "static/media/pancakeswap.png": "/static/media/pancakeswap.28ea4eb6af6e41411b80.png",
     "static/media/cbBTC.png": "/static/media/cbBTC.39f9e22d5e4d3452bfe3.png",
     "static/media/bscusd.png": "/static/media/bscusd.52592faa929f6e8c8299.png",
@@ -30,10 +30,10 @@
     "static/media/inverseLogo.png": "/static/media/inverseLogo.d75267089a8fb670bd94.png",
     "index.html": "/index.html",
     "main.a1d24300.css.map": "/static/css/main.a1d24300.css.map",
-    "main.d5788e47.js.map": "/static/js/main.d5788e47.js.map"
+    "main.653d4465.js.map": "/static/js/main.653d4465.js.map"
   },
   "entrypoints": [
     "static/css/main.a1d24300.css",
-    "static/js/main.d5788e47.js"
+    "static/js/main.653d4465.js"
   ]
 }
